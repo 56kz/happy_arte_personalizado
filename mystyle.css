@@ -1,0 +1,17 @@
+.navbar-brand {
+  font-weight: bold;
+}
+#image-brand {
+  height: 28px;
+  weigth: 28px;
+  margin: -4px;
+  border-radius: 8px;
+}
+
+/* .carousel-inner {
+  width:1000px;
+  height:360px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
